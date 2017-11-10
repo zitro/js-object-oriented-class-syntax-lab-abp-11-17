@@ -22,9 +22,10 @@ sayHi(){
 
 }
 
-class Ceo extends BoardMember{
+/*class Ceo extends BoardMember{
 super.hireEmployee(){
   return 'Welcome aboard';
 }
 
 }
+*/
