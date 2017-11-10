@@ -23,7 +23,7 @@ sayHi(){
 }
 
 class Ceo extends BoardMember{
-hireEmployee(){
+BoardMember.hireEmployee(){
 super.hireEmployee(){
   return 'Welcome aboard';
 }}
